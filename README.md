@@ -19,8 +19,8 @@ Run Instructions:
   node index.js
 
 Table of Contents:
-  Week  |  Content |
-  1  |  Intro to JavaScript and Nodejs
-  2  |  Code Version Control with Git and GitHub
-  3  |  NodeJS as a Server
-  4  |  Angular
+|  Week  |  Content |
+|  1  |  Intro to JavaScript and Nodejs
+|  2  |  Code Version Control with Git and GitHub
+|  3  |  NodeJS as a Server
+|  4  |  Angular
