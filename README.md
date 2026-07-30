@@ -1,6 +1,10 @@
 Project Title:
   myFirstGit
 
+Student Information:
+  Name: Hudson Van Gemert
+  sNumber: s5417750
+  
 Description:
   This is a test for learning Git version control
 
